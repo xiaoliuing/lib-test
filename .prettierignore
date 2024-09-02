@@ -1,0 +1,8 @@
+dist
+node_modules
+pnpm-lock.yaml
+README.md
+package.json
+LICENSE
+.prettierrc
+tsconfig.json
